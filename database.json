@@ -1,0 +1,16 @@
+{
+    "accounts": [
+        {
+            "acc_no": 832856,
+            "name": "Adarsh",
+            "balance": 1000.0,
+            "dues": 50.0
+        },
+        {
+            "acc_no": 832857,
+            "name": "Chiranjeevi",
+            "balance": 500.0,
+            "dues": 0.0
+        }
+    ]
+}
